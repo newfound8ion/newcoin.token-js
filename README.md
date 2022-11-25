@@ -1,0 +1,1 @@
+# newcoin.token-js
