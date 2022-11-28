@@ -89,7 +89,7 @@ export class ActionGenerator {
   async mine(
     authorization: EosioAuthorizationObject[]
   ): Promise<EosioActionObject[]> {
-    return this._pack(this.contract, authorization, "transfer", {});
+    return this._pack(this.contract, authorization, "mine", {});
   }
 
   async addShareholder(
