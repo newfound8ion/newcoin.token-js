@@ -1,6 +1,6 @@
 {
-  "name": "newcoin.token-js",
-  "version": "1.0.2",
+  "name": "@newfound8ion/newcoin.token-js",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
